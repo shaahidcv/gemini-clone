@@ -1,2 +1,1 @@
-# gemini-clone
-clone ai
+
