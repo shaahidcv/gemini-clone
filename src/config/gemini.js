@@ -17,7 +17,7 @@ import {
   
 
   const MODEL_NAME = "gemini-1.0-pro";
-  const API_KEY = "AIzaSyDuFSjRCE8WgnbOlZgV6RPSDk3xMB_b9pM";
+  const API_KEY = "your api key";
   
   
   
